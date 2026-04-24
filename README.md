@@ -23,7 +23,7 @@ It demonstrates how to detect a face and place a sunglasses overlay using OpenCV
 3. Run the script  
 4. View your transformed image  
 
-## 🎯 Applications
+##  Applications
 - Learning image processing basics  
 - Simple computer vision practice  
 - Fun photo editing
